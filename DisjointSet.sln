@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DisjointSet", "DisjointSet\DisjointSet.csproj", "{50FEF18D-9E85-45DA-8648-F8E62BA3BFAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisjointSet.Test", "DisjointSet.Test\DisjointSet.Test.csproj", "{AA48D82D-9CAC-4288-BF50-E3CFFB7C38EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50FEF18D-9E85-45DA-8648-F8E62BA3BFAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50FEF18D-9E85-45DA-8648-F8E62BA3BFAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50FEF18D-9E85-45DA-8648-F8E62BA3BFAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50FEF18D-9E85-45DA-8648-F8E62BA3BFAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA48D82D-9CAC-4288-BF50-E3CFFB7C38EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA48D82D-9CAC-4288-BF50-E3CFFB7C38EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA48D82D-9CAC-4288-BF50-E3CFFB7C38EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA48D82D-9CAC-4288-BF50-E3CFFB7C38EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {133BECE2-4B92-4729-9993-774A27FA1399}
+	EndGlobalSection
+EndGlobal
